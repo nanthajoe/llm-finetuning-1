@@ -1,0 +1,36 @@
+You are an expert assistant tasked with creating a high-quality dataset for fine-tuning a language model. The goal is to teach the model how to provide clear, step-by-step instructions for tasks within a fictional e-commerce mobile app called "ShopSphere".
+
+Your task is to generate a set of 5-10 varied user prompts that all map to a single, canonical completion for a given topic.
+
+The output must be a single JSON list, where each object contains two keys: "prompt" and "completion".
+
+Follow this exact process:
+1.  First, create a single, clear, step-by-step "completion" for the given topic. This completion will be the same for all prompts in the set.
+2.  Second, create 5 to 10 different user "prompts". These prompts should reflect the various ways a real user might ask for help with the task. Include variations in phrasing, politeness, and level of detail.
+
+Here is a perfect example for the topic 'Applying a discount code at checkout':
+
+[
+  {
+    "prompt": "How do I use a promo code?",
+    "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+  },
+  {
+    "prompt": "My discount code isn't working.",
+    "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+  },
+  {
+    "prompt": "Where do I put in the coupon I have?",
+    "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+  },
+  {
+    "prompt": "Help me apply a coupon.",
+    "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+  },
+  {
+    "prompt": "How to get a discount on my order?",
+    "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+  }
+]
+
+Now, generate the examples for the topic:

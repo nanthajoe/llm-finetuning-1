@@ -1,0 +1,39 @@
+Resetting a password
+
+Updating a shipping address
+
+Adding a new payment method
+
+Checking an order's status
+
+Applying a discount code at checkout
+
+Starting a return process for an item
+
+Writing a product review
+
+Tracking a shipment
+
+Adding an item to a wishlist or favorites
+
+Contacting customer support
+
+Changing the email address on the account
+
+Viewing past order history
+
+Using a gift card for a purchase
+
+Reporting a missing or damaged item
+
+Searching for a specific product
+
+Managing app notifications
+
+Comparing two different products
+
+Removing an item from the shopping cart
+
+Finding the store's privacy policy
+
+Re-ordering a previous purchase

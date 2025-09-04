@@ -1,0 +1,13 @@
+# EDA
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Fine-Tuning
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl

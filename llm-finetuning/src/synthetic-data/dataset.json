@@ -1,0 +1,622 @@
+[
+    {
+      "prompt": "How do I reset my password?",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "I forgot my password.",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "I can't log in to my account.",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "Help me, I need to change my password but I don't remember the current one.",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "Send me a password reset link.",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "Where is the forgot password option in the app?",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+      "prompt": "What is the procedure for account recovery if I lost my password?",
+      "completion": "1. Open the ShopSphere app.\n2. On the login screen, tap the 'Forgot Password?' link.\n3. Enter the email address associated with your account and tap 'Send Reset Link'.\n4. Check your email inbox for a message from ShopSphere with the subject 'Reset Your Password'.\n5. Open the email and tap on the reset link provided.\n6. You will be taken to a new screen. Enter your new password in both fields.\n7. Tap 'Update Password' to save the change. You can now log in with your new password."
+    },
+    {
+        "prompt": "How do I update my shipping address?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "I've moved and need to change my address in ShopSphere.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "My delivery address is wrong, how can I fix it?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "Where in the app do I go to edit my saved shipping info?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "Change shipping address.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "Could you please tell me how to modify a saved address for delivery?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "I made a typo in my address and need to correct it.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Account' from the menu.\n3. Go to the 'Saved Addresses' or 'Address Book' section.\n4. Find the address you wish to update and tap the 'Edit' button next to it.\n5. Modify the address details in the provided fields.\n6. Tap the 'Save Address' button to confirm your changes."
+      },
+      {
+        "prompt": "How do I add a new payment method?",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "I want to add my credit card to ShopSphere.",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "Where can I save my payment details for future orders?",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "My credit card expired and I need to add my new one.",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "Show me how to add a card to my wallet.",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "Can you help me store a new payment option on my account?",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "How to save a card for faster checkout?",
+        "completion": "1. Tap the 'Profile' icon, typically found in the bottom right corner of the screen.\n2. From the profile menu, select 'Payment Methods' or 'Wallet'.\n3. Tap the 'Add a New Payment Method' button.\n4. Choose the type of payment you want to add (e.g., 'Credit/Debit Card').\n5. Enter your new payment details into the secure form.\n6. Tap 'Save' or 'Add Card' to securely store the new payment method for future purchases."
+      },
+      {
+        "prompt": "How do I check my order status?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "Where is my order?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "Has my package shipped yet?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "Where can I find my order history?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "Track my package.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "I want to see the status of my recent purchase.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "How can I find the tracking information for my delivery?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "When will my order arrive?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, usually located in the bottom right corner.\n3. Select 'My Orders' or 'Order History' from the menu.\n4. You will see a list of your recent orders. The current status (e.g., 'Processing', 'Shipped', 'Delivered') is displayed next to each one.\n5. For more detailed tracking, tap on the specific order you are interested in."
+      },
+      {
+        "prompt": "How do I use a promo code on ShopSphere?",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "Where do I enter a coupon code at checkout?",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "My discount isn't applying.",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "Help me add a voucher to my order.",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "Is there a box for a promo code before I pay?",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "Tell me the steps to apply a discount.",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "How to redeem a coupon?",
+        "completion": "1. Go to your Shopping Cart.\n2. Tap the 'Proceed to Checkout' button.\n3. On the checkout page, find the field labeled 'Enter Discount Code' or 'Promo Code'.\n4. Type your code into the field.\n5. Tap the 'Apply' button to see the discount reflected in your total."
+      },
+      {
+        "prompt": "How do I start a return for an item?",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "I need to send something back.",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "The product I received is damaged, how do I return it?",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "I ordered the wrong size, what is the return process?",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "Where can I find the option to return a purchase?",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "Please show me how to initiate a return.",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "What are the steps for returning an order?",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "I want my money back for an item I bought.",
+        "completion": "1. Go to your 'Profile' by tapping the icon in the bottom right corner.\n2. Select 'My Orders' or 'Order History'.\n3. Find and tap on the order containing the item you want to return.\n4. Tap the 'Return Items' or 'Start a Return' button.\n5. Select the item(s) you wish to return and choose a reason from the list provided.\n6. Tap 'Submit Return Request' to finalize. You'll receive an email with the next steps."
+      },
+      {
+        "prompt": "How do I write a product review?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "I want to leave a review for something I bought.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "Where do I go to rate my purchases?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "Could you please show me how to post a review for an item I received?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "I can't find where to leave feedback on my last order.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "How to give stars to a product?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "Tell me the steps to review a product.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon (usually in the bottom right corner).\n2. Select 'My Orders' or 'Order History' from the menu.\n3. Find the delivered order that contains the item you'd like to review and tap on it.\n4. Next to the product image, tap the 'Write a Review' or 'Rate this Product' button.\n5. Select a star rating from 1 to 5.\n6. (Optional) Write a title and a detailed comment about your experience with the product.\n7. Tap 'Submit Review' to post it."
+      },
+      {
+        "prompt": "How do I track my shipment?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "Where is my package?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "Can you give me the tracking number for my order?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "Track my order.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "Where can I find the shipment tracking in the app?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "My order has shipped, how do I see where it is now?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "Please help me find my delivery.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "How can I see my order's location?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Select 'My Orders' from the menu.\n3. Find the order you wish to track (its status should be 'Shipped') and tap on it.\n4. In the order details screen, tap the 'Track Shipment' or 'Track Package' button.\n5. A map will open showing your package's current location and estimated delivery date."
+      },
+      {
+        "prompt": "How do I add an item to my wishlist?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "How can I favorite a product?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "I want to save something to buy later.",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "Where is the button to save an item?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "Is there a way to make a list of things I want?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "Tell me the steps to save a product.",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "What does the heart icon do?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "How do I keep track of items I'm interested in?",
+        "completion": "1. Go to the product page for the item you want to save.\n2. Look for a heart icon (♡) or a button labeled 'Add to Wishlist'. It's usually near the product name or the 'Add to Cart' button.\n3. Tap the icon or button. It will change color or show a confirmation message.\n4. To see your saved items later, go to your 'Profile' and tap on 'My Wishlist'."
+      },
+      {
+        "prompt": "How do I contact customer support?",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "I need to talk to someone about my order.",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "Is there a live chat feature?",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "Talk to a representative.",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "Where is the 'Contact Us' page?",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "Please help, my payment failed but I was charged.",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "How do I get help with the app?",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "I need to speak to a human.",
+        "completion": "1. Tap the 'Profile' icon, usually located in the bottom right corner of the app.\n2. Scroll down and select 'Help Center' or 'Customer Support'.\n3. On this screen, choose your preferred contact method, such as 'Live Chat' to talk to an agent or 'Email Us' to send a message."
+      },
+      {
+        "prompt": "How do I change the email address on my account?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "I need to update my email because I don't use the old one anymore.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "Where can I edit my personal information like my email?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "Update my account email.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "How can I change my login email for ShopSphere?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "I made a typo in my email address, how do I correct it?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "Please show me the steps to change my email.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "I want to associate a different email with my account.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner.\n2. Go to 'Account Settings' or 'Personal Information'.\n3. Tap on the 'Email Address' field or an 'Edit' button next to it.\n4. For security, you may need to enter your current password.\n5. Type your new email address in the field and confirm it.\n6. Tap 'Save' or 'Update Email'. You may need to verify the new email via a link sent to your inbox."
+      },
+      {
+        "prompt": "How do I see my past orders?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "Where can I find my order history?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "I want to look at something I bought previously.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "Show me a list of all my purchases.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "How can I find an old receipt?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "Tell me the steps to view my purchase history.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "I need to check the details of a previous order.",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "Where do I go to see everything I've ordered?",
+        "completion": "1. Open the ShopSphere app and ensure you are logged in.\n2. Tap on the 'Profile' icon, typically located in the bottom right corner.\n3. From the menu, select 'My Orders' or 'Order History'.\n4. You will now see a complete list of all your past purchases, with the most recent at the top."
+      },
+      {
+        "prompt": "How do I use a gift card for a purchase?",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "How can I redeem a gift card on my order?",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "I'm trying to pay with a gift card, where do I enter the code?",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "Apply gift card to my order.",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "Where is the option to use a gift voucher during checkout?",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "Please tell me how to use a gift card balance.",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "I want to pay with the gift card I got.",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "Is there a spot to put in a gift card number before I pay?",
+        "completion": "1. Add items to your cart and proceed to the checkout page.\n2. On the 'Payment Method' screen, look for an option that says 'Apply a Gift Card' or 'Use Gift Card Balance'.\n3. Tap on it and enter your unique gift card code into the text field.\n4. Tap the 'Apply' button.\n5. The gift card amount will be deducted from your order total. If there's a remaining balance, you can pay for it with another method."
+      },
+      {
+        "prompt": "How do I report a damaged item?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "My order arrived but one of the products is broken.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "An item is missing from my package.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "I need to report a problem with my most recent order.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "What's the process if I didn't receive everything I ordered?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "I want a replacement for an item that was crushed in shipping.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "Where do I go to complain about a missing item?",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "The box was fine but the product inside was shattered.",
+        "completion": "1. Open the ShopSphere app and tap the 'Profile' icon in the bottom right corner.\n2. Go to 'My Orders' and find the order with the issue.\n3. Tap on the order to view its details.\n4. Tap the 'Report an Issue' or 'Problem with Order' button.\n5. Select the reason, such as 'Item arrived damaged' or 'Item was missing'.\n6. Choose the specific item(s) that were affected.\n7. Follow the prompts to provide details or photos and then submit your report."
+      },
+      {
+        "prompt": "How do I search for a product?",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "I'm looking for a specific item, how do I find it?",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "Where is the search bar?",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "Find a red t-shirt.",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "How can I look up products on ShopSphere?",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "Please show me how to search for things to buy.",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "I need to find a birthday gift for my friend.",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "What's the best way to find what I'm looking for?",
+        "completion": "1. Open the ShopSphere app.\n2. At the top of the home screen, tap the search bar that says 'Search for products...'.\n3. Type the name of the item, brand, or keywords you are looking for.\n4. Tap the 'Search' key on your keyboard or the magnifying glass icon.\n5. The app will display a list of matching products."
+      },
+      {
+        "prompt": "How do I manage my app notifications?",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "I'm getting too many ads and popups from this app. How do I stop them?",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "How can I turn off promotional notifications?",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "I only want to get alerts about my deliveries.",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "Where can I find the notification settings?",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "Please show me how to change my alert preferences.",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "Unsubscribe from marketing notifications.",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "How do I control what alerts I get from ShopSphere?",
+        "completion": "1. Tap the 'Profile' icon in the bottom right corner of the app.\n2. Select 'Settings' from the menu.\n3. Tap on 'Notification Preferences'.\n4. You will see a list of notification types like 'Promotions & Offers' and 'Order Updates'.\n5. Use the toggle switch next to each type to turn them on or off. Your changes are saved automatically."
+      },
+      {
+        "prompt": "How do I compare two different products?",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "I need to see two items side-by-side to decide which one to buy.",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "Does this app have a product comparison tool?",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "What's the difference between this phone and that other one?",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "How can I view the specifications of two items at the same time?",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "Tell me the steps to use the compare feature.",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "I can't decide which of these to get.",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "Compare these two products for me.",
+        "completion": "1. Go to the product page of the first item you want to compare.\n2. Find and tap the 'Compare' button, often located near the 'Add to Cart' button.\n3. Navigate to the page of the second item and tap its 'Compare' button.\n4. Once two or more items are selected, tap the 'Compare Now' button that appears at the bottom of the screen.\n5. You'll see a side-by-side list of the products' features and specifications."
+      },
+      {
+        "prompt": "How do I remove an item from my shopping cart?",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "I accidentally added something to my cart, how do I get it out?",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "I've changed my mind and want to take an item out of my basket.",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "Delete an item from my order.",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "Where is the remove button for items in my cart?",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the anpp.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "Please tell me the steps to empty my cart.",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "How to edit the shopping cart list?",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "I don't want this item anymore.",
+        "completion": "1. Tap the **Shopping Cart** icon, usually in the top right corner of the app.\n2. Find the item you wish to remove from the list.\n3. Tap the **'Remove'** button or the **trash can icon** (🗑️) next to the item.\n4. The item will disappear from your cart, and the total will be updated."
+      },
+      {
+        "prompt": "Where can I find your privacy policy?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "How does ShopSphere handle my personal data?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "I want to read about your data collection practices.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "Where is the legal information for this app?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "Please show me where to find the privacy statement.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "Tell me what you do with my information.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "How can I read the data usage policy?",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "I need to see your privacy terms.",
+        "completion": "1. Open the ShopSphere app and tap on the 'Profile' icon, usually in the bottom right corner.\n2. Scroll down and tap on 'Settings' or 'About ShopSphere'.\n3. Look for a link labeled 'Privacy Policy' in this section.\n4. Tap on 'Privacy Policy' to open and read the document."
+      },
+      {
+        "prompt": "How do I reorder a previous purchase?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "I want to buy the same thing I bought last time.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "How can I find an item from my purchase history to buy it again?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "Is there a quick way to reorder items?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "Where is the 'Buy Again' feature?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "I need to restock on some items I've purchased before.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "Show me how to make a repeat purchase.",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      },
+      {
+        "prompt": "How to add an item from a past order to my current cart?",
+        "completion": "1. Tap the 'Profile' icon, usually in the bottom right corner of the app.\n2. Select 'My Orders' or 'Order History'.\n3. Find the past order containing the item you want and tap on it.\n4. Next to the product, tap the 'Buy Again' or 'Reorder' button.\n5. The item will be added to your shopping cart, and you can proceed to checkout."
+      }
+]
